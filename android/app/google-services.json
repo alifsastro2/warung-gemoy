@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973933568998",
+    "project_id": "gemoy-kitchen-2026",
+    "storage_bucket": "gemoy-kitchen-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973933568998:android:2104a25379d7c53b806c27",
+        "android_client_info": {
+          "package_name": "com.gemoykitchen.gemoy_kitchen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq0U4Ek7_jCGmlFSSjX8HB7ixUERkp6UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
